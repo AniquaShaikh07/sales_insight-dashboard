@@ -1,2 +1,3 @@
-# sales_insight_dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This peocess involved several stages , including data preprocessing , data cleaning, and data visualization.
+#Sales-Insight-Data-Analysis(Interactive Dashboard creation using MS Excel)
+##Project Objective 
+A simple dashboard that shows sales data and insights using interactive charts and tables.

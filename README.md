@@ -1,1 +1,1 @@
-# sales_insight-dashboard
+# sales_insight_dashboard

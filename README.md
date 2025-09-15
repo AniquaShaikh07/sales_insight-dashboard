@@ -22,3 +22,9 @@ A simple dashboard that shows sales data and insights using interactive charts a
 -Cleaned the dataset by removing duplicates, handling missing values, and standardizing fields.
 -Applied slicers and pivot tables to filter, segment, and summarize the data for interactive analysis.
 -Designed and built the Sales Insight Dashboard to visualize KPIs and key trends clearly.
+
+##Dashboard
+<img width="1120" height="626" alt="Screenshot 2025-08-24 154517" src="https://github.com/user-attachments/assets/ca3aedfb-9d6a-430d-b573-610d6e49fb97" />
+<img width="1110" height="615" alt="Screenshot 2025-08-24 153717" src="https://github.com/user-attachments/assets/3cb8c44d-dbaa-4134-b765-a684f6dc2ecd" />
+
+

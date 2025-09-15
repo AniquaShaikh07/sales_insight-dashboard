@@ -15,4 +15,10 @@ A simple dashboard that shows sales data and insights using interactive charts a
 - What is the relationship between retail price and profit margin across products?
 - How are shipment or container types distributed by product category and year?
 
-  -
+- Dashboard Interaction <a href="https://github.com/AniquaShaikh07/sales_insight-dashboard/blob/main/Screenshot%202025-08-24%20154517.png">View Dashboard</a>
+
+## Process
+-Collected and consolidated sales data containing orders, customers, products, margins, shipping modes, and discounts.
+-Cleaned the dataset by removing duplicates, handling missing values, and standardizing fields.
+-Applied slicers and pivot tables to filter, segment, and summarize the data for interactive analysis.
+-Designed and built the Sales Insight Dashboard to visualize KPIs and key trends clearly.
